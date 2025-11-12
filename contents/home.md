@@ -1,17 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![zhichuan1207](https://img.shields.io/badge/zhichuan1207-github-blue?logo=github)](https://github.com/zhichuan1207)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a Master's student in the School of Physics and Electronic Information at Yunnan Normal University.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: aoxinjie[at]ynnu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Optics, School of Physics and Electronic Information, Yunnan Normal University, 2023—2026.
+B.E., Communication Engineering, School of Physics and Electronic Information, Yunnan Normal University, 2019—2023.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+Robot Development, Image Processing, Optical Design.

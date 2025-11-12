@@ -1,16 +1,5 @@
-
-- Outstanding Graduate Award (CUMT), 2025.
-
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2023.
-
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+* First Prize, 19th "GigaDevice Innovation Cup" Graduate Electronic Design Competition (Yunnan Province), 2024.
+* First Prize, China International College Students' "Internet+" Innovation and Entrepreneurship Competition (Yunnan Province), 2024.
+* First Prize, 20th "GigaDevice Innovation Cup" Graduate Electronic Design Competition (Yunnan Province), 2025.
+* National Third Prize, 19th "Challenge Cup" "AI+" Application Competition (China), 2025.
+* Second-Class Graduate Academic Scholarship (Yunnan Normal University), 2024.
